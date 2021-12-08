@@ -2,7 +2,7 @@
 
 In this workshop, we'll build 3 components from scratch:
 
-1. ProgressBar
+1. ProgressBar (DONE)
 2. Select
 3. IconInput
 
